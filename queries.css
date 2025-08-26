@@ -852,8 +852,9 @@
     header ul li {
         display:none;
     }
-    .fa-bars {
+    header i.fa-solid {
         visibility: visible;
+        display:block;
     }
 
     .project-images {
@@ -1050,8 +1051,9 @@
     header ul li {
         display:none;
     }
-    .fa-bars {
+    header i.fa-solid {
         visibility: visible;
+        display:block;
     }
 
     .project-images {
@@ -1248,8 +1250,9 @@
     header ul li {
         display:none;
     }
-    .fa-bars {
+    header i.fa-solid {
         visibility: visible;
+        display:block;
     }
 
     .project-images {

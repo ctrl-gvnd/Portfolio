@@ -27,6 +27,10 @@ header {
     z-index:10;
 }
 
+header i.fa-solid {
+    display:none;
+}
+
 .wrap {
     width:150rem;
     margin:0 auto;
@@ -40,7 +44,7 @@ header {
     font-size:1.8rem;
     ul {
         display:flex;
-        gap:15rem;
+        gap:7rem;
         list-style:none;
         a {
             text-decoration:none;
